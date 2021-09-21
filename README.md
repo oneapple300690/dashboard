@@ -1,3 +1,3 @@
-# Dashboard include 2 Repositories Back End and Front End
-Back End: https://github.com/oneapple300690/backend
-Front End: https://github.com/oneapple300690/frontend
+# Dashboard includes 2 Repositories
+1) <b>Back End:</b> https://github.com/oneapple300690/backend <br/>
+2) <b>Front End:</b> https://github.com/oneapple300690/frontend
